@@ -1,5 +1,5 @@
 ---
-title: "Cool-Title-Bro"
+title: "Cool Title Bro"
 date: 2026-06-26
 ---
 # First post
